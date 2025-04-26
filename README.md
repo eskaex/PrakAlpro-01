@@ -9,4 +9,7 @@ Week_5: Materi 05 - Modular Programming
 
 Week_6: Materi 06 - Perulangan
 
-Week_7: materi 07 - Percabangan dan Perulangan Kompleks
+Week_7: Materi 07 - Percabangan dan Perulangan Kompleks
+
+Week_9: Materi 09 - Pengolahan String dan Regular Expression
+
