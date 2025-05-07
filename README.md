@@ -14,3 +14,5 @@ Week_7: Materi 07 - Percabangan dan Perulangan Kompleks
 Week_9: Materi 09 - Pengolahan String dan Regular Expression
 
 Week_10: Materi 10 - Manajemen File
+
+Week_11: Materi 11 - Tipe Data List
