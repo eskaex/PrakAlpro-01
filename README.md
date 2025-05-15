@@ -16,3 +16,5 @@ Week_9: Materi 09 - Pengolahan String dan Regular Expression
 Week_10: Materi 10 - Manajemen File
 
 Week_11: Materi 11 - Tipe Data List
+
+Week_12: Materi 12 - Tipe Data Dictionary
